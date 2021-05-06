@@ -5,6 +5,7 @@ environment : Google colab
 Maybe every package is most recent version
 ---
 dataset : [nsmc(naver sentiment movie corpus)](https://github.com/e9t/nsmc)
+tokenizer : KoNLPy Mecab
 
 Used
 - LSTM 
