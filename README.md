@@ -12,9 +12,12 @@ tokenizer : KoNLPy Mecab
 Used
 - LSTM 
 - Bi-LSTM with learning rate schduler
+- add pretrained embedding layer in LSTM
 
 
 Todo
-- add pretrained embedding layer in LSTM
-- attention layer
+- LSTM with attention layer
+- CNN
+- CNN with attention layer
+- CNN Embedding + LSTM
 - ...
