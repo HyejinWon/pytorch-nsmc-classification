@@ -7,16 +7,19 @@ Maybe every package is most recent version
 ---
 dataset : [nsmc(naver sentiment movie corpus)](https://github.com/e9t/nsmc)
 
-tokenizer : KoNLPy Mecab
+dependency 
+- KoNLPy Mecab
+- torch
+- torchtext
 
 Used
 - LSTM 
 - Bi-LSTM with learning rate schduler
 - add pretrained embedding layer in LSTM
+- LSTM with attention layer
 
 
 Todo
-- LSTM with attention layer
 - CNN
 - CNN with attention layer
 - CNN Embedding + LSTM
