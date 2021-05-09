@@ -12,7 +12,7 @@ dependency
 - torch
 - torchtext
 
-Used
+Done
 - LSTM 
 - Bi-LSTM with learning rate schduler
 - add pretrained embedding layer in LSTM
