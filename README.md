@@ -16,7 +16,7 @@ Done
 - [LSTM](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification.ipynb) 
 - Bi-LSTM with learning rate schduler
 - add pretrained embedding layer in LSTM
-- LSTM with attention layer
+- [LSTM with attention layer](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification_attention.ipynb)
 
 
 Todo
