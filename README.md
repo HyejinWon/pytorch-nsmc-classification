@@ -8,7 +8,7 @@ Maybe every package is most recent version
 dataset : [nsmc(naver sentiment movie corpus)](https://github.com/e9t/nsmc)
 
 dependency 
-- KoNLPy Mecab
+- KoNLPy Mecab (Tokenizer)
 - torch
 - torchtext
 
