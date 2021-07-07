@@ -18,9 +18,8 @@ Done
 - [add pretrained embedding layer in LSTM](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification_pretrainedEmbedding.ipynb)
 - [LSTM with attention layer](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification_attention.ipynb)
 - [CNN](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification_CNN.ipynb)
-
+- [CNN with attention layer](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification_CNN_attention.ipynb)
 
 Todo
-- CNN with attention layer
 - CNN Embedding + LSTM
 - ...
