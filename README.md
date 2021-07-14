@@ -22,4 +22,5 @@ Done
 
 Todo
 - CNN Embedding + LSTM
+- BERT
 - ...
